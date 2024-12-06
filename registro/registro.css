@@ -135,21 +135,6 @@ a:hover {
     color: #fff;
 }
 
-@media (max-width: 768px) {
-    .field-group {
-        flex-direction: column;
-    }
-
-    #titulo {
-        font-size: 2.5rem;
-    }
-
-    form input, .boton button {
-        font-size: 1rem;
-        padding: 0.7rem 1.2rem;
-    }
-}
-
 /* Estilos del modal */
 .modal {
     display: none; 
